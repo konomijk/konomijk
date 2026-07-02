@@ -44,12 +44,3 @@ Comunicação com equipes regionais e globais para alinhamento de processos
 Análise comportamental de usuários e suporte a conteúdos e eventos do jogo
 Moderação de comunidades no Facebook e Discord
 Treinamento e integração de novos colaboradores
-
-
-
-📊 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=konomijk&show_icons=true&theme=default" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=konomijk&layout=compact" height="165" />
-</p>
